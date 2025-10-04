@@ -32,9 +32,9 @@ Implémenté les méthodes et fonctions nécessaires à chaque système.
 Appliqué la gestion des exceptions pour rendre le code plus robuste.
 Testé les fonctionnalités de création, d’ajout, de recherche et de mise à jour des données.
 
-💡 Concepts Kotlin utilisés
-Classes et objets
-Héritage et polymorphisme
-Encapsulation
-Classes abstraites et interfaces
-Gestion des exceptions
+**💡Concepts Kotlin utilisés**
+Classes et objets.
+Héritage et polymorphisme.
+Encapsulation.
+Classes abstraites et interfaces.
+Gestion des exceptions.
